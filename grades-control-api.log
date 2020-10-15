@@ -1,0 +1,158 @@
+2020-10-13T14:14:06.752Z [grades-control-api] info: API Started!
+2020-10-13T14:15:26.123Z [grades-control-api] info: API Started!
+2020-10-13T14:17:09.127Z [grades-control-api] info: API Started!
+2020-10-13T14:17:54.826Z [grades-control-api] info: API Started!
+2020-10-13T14:17:59.295Z [grades-control-api] info: GET /grade/:id
+2020-10-13T14:19:15.677Z [grades-control-api] info: DELETE /account/:id - 3
+2020-10-13T14:19:23.163Z [grades-control-api] info: GET /grade/:id
+2020-10-13T14:19:25.466Z [grades-control-api] info: GET /grade/:id
+2020-10-13T14:20:01.600Z [grades-control-api] info: API Started!
+2020-10-13T14:22:55.041Z [grades-control-api] info: API Started!
+2020-10-13T14:24:07.335Z [grades-control-api] info: API Started!
+2020-10-13T14:24:22.091Z [grades-control-api] info: API Started!
+2020-10-13T14:24:25.171Z [grades-control-api] info: API Started!
+2020-10-13T14:26:31.325Z [grades-control-api] info: API Started!
+2020-10-13T19:33:44.358Z [grades-control-api] info: API Started!
+2020-10-13T19:34:06.947Z [grades-control-api] info: API Started!
+2020-10-13T19:34:11.694Z [grades-control-api] info: API Started!
+2020-10-13T19:34:23.524Z [grades-control-api] info: API Started!
+2020-10-13T19:34:35.518Z [grades-control-api] info: API Started!
+2020-10-13T19:34:43.696Z [grades-control-api] info: API Started!
+2020-10-13T19:35:03.678Z [grades-control-api] info: API Started!
+2020-10-13T19:35:36.650Z [grades-control-api] info: API Started!
+2020-10-13T19:35:38.516Z [grades-control-api] info: API Started!
+2020-10-13T19:36:21.002Z [grades-control-api] info: API Started!
+2020-10-13T19:36:26.936Z [grades-control-api] info: API Started!
+2020-10-13T19:36:34.935Z [grades-control-api] info: API Started!
+2020-10-13T19:36:44.934Z [grades-control-api] info: API Started!
+2020-10-13T19:37:09.927Z [grades-control-api] info: API Started!
+2020-10-13T19:42:56.164Z [grades-control-api] info: API Started!
+2020-10-13T19:44:29.294Z [grades-control-api] info: API Started!
+2020-10-13T19:44:38.994Z [grades-control-api] error: POST /grades-control-api - Os campos student, subject, type e value são obrigatórios.
+2020-10-13T19:44:51.499Z [grades-control-api] error: POST /grades-control-api - Os campos student, subject, type e value são obrigatórios.
+2020-10-13T19:44:58.861Z [grades-control-api] error: POST /grades-control-api - timestamp is not defined
+2020-10-13T19:45:21.005Z [grades-control-api] info: API Started!
+2020-10-13T19:45:23.936Z [grades-control-api] info: POST /grade - {"id":49,"student":"Thiago Rodrigues","type":"Fórum","value":750,"timestamp":"2020-10-13T19:45:23.923Z"}
+2020-10-13T19:47:27.559Z [grades-control-api] info: GET /grade/:id
+2020-10-13T19:49:13.691Z [grades-control-api] info: API Started!
+2020-10-13T19:53:21.542Z [grades-control-api] info: API Started!
+2020-10-13T19:53:37.032Z [grades-control-api] info: API Started!
+2020-10-13T19:54:01.213Z [grades-control-api] info: API Started!
+2020-10-13T19:54:02.508Z [grades-control-api] info: API Started!
+2020-10-13T20:02:12.533Z [grades-control-api] info: API Started!
+2020-10-13T20:02:44.759Z [grades-control-api] info: API Started!
+2020-10-13T20:03:16.866Z [grades-control-api] info: API Started!
+2020-10-13T20:03:59.883Z [grades-control-api] info: API Started!
+2020-10-13T20:04:10.627Z [grades-control-api] info: API Started!
+2020-10-13T20:04:42.308Z [grades-control-api] info: API Started!
+2020-10-13T20:06:04.663Z [grades-control-api] error: PUT /grades-control-api - Id é obrigatórios.
+2020-10-13T20:06:10.772Z [grades-control-api] info: PUT /grade - {"id":49,"student":"Thiago A. O. Rodrigues","subject":"05 - Apples","type":"Fóruns","value":50}
+2020-10-13T20:06:16.891Z [grades-control-api] info: GET /grade/:id
+2020-10-13T20:07:29.251Z [grades-control-api] error: PUT /grades-control-api - Registro não encontrado.
+2020-10-13T20:08:27.631Z [grades-control-api] info: API Started!
+2020-10-13T20:09:08.239Z [grades-control-api] info: API Started!
+2020-10-13T20:10:30.870Z [grades-control-api] info: API Started!
+2020-10-13T20:11:30.216Z [grades-control-api] info: API Started!
+2020-10-13T20:15:07.960Z [grades-control-api] info: API Started!
+2020-10-13T20:16:19.972Z [grades-control-api] info: API Started!
+2020-10-13T20:17:48.703Z [grades-control-api] error: GET /grades-control-api - Invalid status code: 5
+2020-10-13T20:17:57.875Z [grades-control-api] info: API Started!
+2020-10-13T20:20:23.849Z [grades-control-api] info: API Started!
+2020-10-13T20:20:52.339Z [grades-control-api] info: API Started!
+2020-10-13T20:21:01.437Z [grades-control-api] info: API Started!
+2020-10-13T20:21:04.353Z [grades-control-api] error: GET /grades-control-api - Cannot read property 'reduce' of undefined
+2020-10-13T20:21:12.520Z [grades-control-api] error: GET /grades-control-api - Cannot read property 'reduce' of undefined
+2020-10-13T20:21:48.653Z [grades-control-api] info: API Started!
+2020-10-13T20:23:37.464Z [grades-control-api] info: API Started!
+2020-10-13T20:27:40.262Z [grades-control-api] info: API Started!
+2020-10-13T20:28:14.973Z [grades-control-api] info: GET totalGrade/:student/:subject
+2020-10-13T20:29:08.579Z [grades-control-api] info: GET totalGrade/:student/:subject
+2020-10-13T20:30:51.041Z [grades-control-api] info: API Started!
+2020-10-13T20:30:53.655Z [grades-control-api] info: GET totalGrade/:student/:subject
+2020-10-13T20:30:57.438Z [grades-control-api] info: GET totalGrade/:student/:subject
+2020-10-13T20:30:58.922Z [grades-control-api] info: GET totalGrade/:student/:subject
+2020-10-13T20:31:15.108Z [grades-control-api] info: API Started!
+2020-10-13T20:31:54.689Z [grades-control-api] info: API Started!
+2020-10-13T20:32:07.810Z [grades-control-api] error: GET /grades-control-api - Aluno com disciplina não encontrado.
+2020-10-13T20:32:16.959Z [grades-control-api] info: GET totalGrade/:student/:subject
+2020-10-13T20:34:28.362Z [grades-control-api] info: API Started!
+2020-10-13T20:40:15.449Z [grades-control-api] info: API Started!
+2020-10-13T20:40:53.186Z [grades-control-api] info: API Started!
+2020-10-13T20:42:21.213Z [grades-control-api] info: API Started!
+2020-10-13T20:43:29.568Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:51:29.615Z [grades-control-api] info: API Started!
+2020-10-13T20:51:40.301Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:52:10.546Z [grades-control-api] info: API Started!
+2020-10-13T20:52:12.626Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:52:27.405Z [grades-control-api] info: API Started!
+2020-10-13T20:52:29.044Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:53:04.334Z [grades-control-api] info: API Started!
+2020-10-13T20:53:25.340Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:53:38.766Z [grades-control-api] info: API Started!
+2020-10-13T20:53:53.455Z [grades-control-api] info: API Started!
+2020-10-13T20:53:55.208Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:54:07.298Z [grades-control-api] info: API Started!
+2020-10-13T20:54:08.833Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:55:08.362Z [grades-control-api] info: API Started!
+2020-10-13T20:55:14.261Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:55:42.782Z [grades-control-api] info: API Started!
+2020-10-13T20:55:50.959Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:56:58.344Z [grades-control-api] info: API Started!
+2020-10-13T20:57:02.595Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:57:14.200Z [grades-control-api] info: API Started!
+2020-10-13T20:57:16.972Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:57:17.877Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:57:18.456Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:59:28.107Z [grades-control-api] info: API Started!
+2020-10-13T20:59:30.432Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:59:31.527Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T20:59:38.358Z [grades-control-api] info: API Started!
+2020-10-13T20:59:45.401Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:00:20.525Z [grades-control-api] info: API Started!
+2020-10-13T21:00:23.470Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:00:24.968Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:00:32.357Z [grades-control-api] info: API Started!
+2020-10-13T21:00:35.221Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:00:36.127Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:00:59.773Z [grades-control-api] info: API Started!
+2020-10-13T21:01:56.495Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:02:36.867Z [grades-control-api] info: API Started!
+2020-10-13T21:02:39.780Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:02:41.576Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:03:12.316Z [grades-control-api] error: GET /grades-control-api - Nenhum subject com esse type foi encontrado.
+2020-10-13T21:03:21.176Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:06:24.594Z [grades-control-api] info: API Started!
+2020-10-13T21:32:41.767Z [grades-control-api] info: API Started!
+2020-10-13T21:37:43.349Z [grades-control-api] info: API Started!
+2020-10-13T21:38:27.508Z [grades-control-api] info: API Started!
+2020-10-13T21:38:29.902Z [grades-control-api] info: API Started!
+2020-10-13T21:39:45.840Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:40:15.233Z [grades-control-api] info: API Started!
+2020-10-13T21:40:17.432Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:40:40.932Z [grades-control-api] info: API Started!
+2020-10-13T21:40:44.002Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:40:45.194Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:41:07.072Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:51:41.866Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:52:40.677Z [grades-control-api] info: API Started!
+2020-10-13T21:52:44.754Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:52:47.666Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:52:48.490Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:52:49.372Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:53:09.315Z [grades-control-api] info: API Started!
+2020-10-13T21:53:11.827Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T21:59:59.447Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T22:00:21.866Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T23:48:43.530Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T23:49:37.065Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T23:50:52.230Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-13T23:52:07.899Z [grades-control-api] info: GET totalGrade/:student/:subject
+2020-10-13T23:53:49.087Z [grades-control-api] info: POST /grade - {"id":49,"student":"Roberto Achar","type":"Fórum","value":10,"timestamp":"2020-10-13T23:53:49.076Z"}
+2020-10-13T23:54:40.279Z [grades-control-api] info: GET totalGrade/:student/:subject
+2020-10-13T23:56:14.569Z [grades-control-api] info: GET /grade/:id
+2020-10-13T23:57:09.977Z [grades-control-api] info: PUT /grade - {"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15}
+2020-10-13T23:58:54.306Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-14T00:00:06.220Z [grades-control-api] info: DELETE /grade/:id - 32
+2020-10-14T00:00:57.614Z [grades-control-api] info: GET averageGrade/:subject/:type
+2020-10-14T00:01:34.148Z [grades-control-api] info: GET /grade/:id
+2020-10-14T00:12:21.261Z [grades-control-api] info: GET totalGrade/:student/:subject
